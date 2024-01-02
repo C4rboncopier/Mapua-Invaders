@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\C4rbo\Desktop\Files\Programming\java\trial\Mapua Invaders\desktop\build\libs\desktop-1.0.jar</jar>
+  <outfile>C:\Users\C4rbo\Desktop\Files\Programming\java\trial\Mapua Invaders\app\Mapua Invaders.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\C4rbo\Desktop\Files\Programming\java\trial\Mapua Invaders\assets\Icon\LOGO-MAPUA-INVADERS.ico</icon>
+  <singleInstance>
+    <mutexName>Mapua Invaders</mutexName>
+    <windowTitle>Mapua Invaders</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
